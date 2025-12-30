@@ -209,3 +209,4 @@ __marimo__/
 
 #Ignoring Avenue Dataset files
 Avenue Dataset/
+.vscode/
